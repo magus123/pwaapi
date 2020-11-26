@@ -1,4 +1,6 @@
-[{"id":1,"name":"Crested bunting","category":"Orange"},
+{
+"products":[
+{"id":1,"name":"Crested bunting","category":"Orange"},
 {"id":2,"name":"Desert kangaroo rat","category":"Purple"},
 {"id":3,"name":"Emerald green tree boa","category":"Orange"},
 {"id":4,"name":"Iguana, land","category":"Puce"},
@@ -17,4 +19,6 @@
 {"id":17,"name":"Squirrel, european red","category":"Fuscia"},
 {"id":18,"name":"Cat, jungle","category":"Crimson"},
 {"id":19,"name":"Ring-tailed gecko","category":"Maroon"},
-{"id":20,"name":"Leopard, indian","category":"Khaki"}]
+{"id":20,"name":"Leopard, indian","category":"Khaki"}
+]
+}
