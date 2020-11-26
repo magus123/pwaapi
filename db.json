@@ -1,11 +1,20 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"id":1,"name":"Crested bunting","category":"Orange"},
+{"id":2,"name":"Desert kangaroo rat","category":"Purple"},
+{"id":3,"name":"Emerald green tree boa","category":"Orange"},
+{"id":4,"name":"Iguana, land","category":"Puce"},
+{"id":5,"name":"Secretary bird","category":"Maroon"},
+{"id":6,"name":"Raven, cape","category":"Turquoise"},
+{"id":7,"name":"Neotropic cormorant","category":"Purple"},
+{"id":8,"name":"Yellow-rumped siskin","category":"Puce"},
+{"id":9,"name":"Pied avocet","category":"Blue"},
+{"id":10,"name":"Grenadier, purple","category":"Orange"},
+{"id":11,"name":"Nilgai","category":"Puce"},
+{"id":12,"name":"Small-toothed palm civet","category":"Crimson"},
+{"id":13,"name":"Western grey kangaroo","category":"Purple"},
+{"id":14,"name":"Crane, brolga","category":"Green"},
+{"id":15,"name":"White rhinoceros","category":"Puce"},
+{"id":16,"name":"Squirrel, nelson ground","category":"Orange"},
+{"id":17,"name":"Squirrel, european red","category":"Fuscia"},
+{"id":18,"name":"Cat, jungle","category":"Crimson"},
+{"id":19,"name":"Ring-tailed gecko","category":"Maroon"},
+{"id":20,"name":"Leopard, indian","category":"Khaki"}]
